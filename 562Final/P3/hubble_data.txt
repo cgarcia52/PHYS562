@@ -1,0 +1,34 @@
+v(r) = a + Hr <-> y(x) = mx + b
+
+Perform linear regression
+Enter FIN to stop and compute regression
+
+Enter x y values: 0.032 170
+Enter x y values: 0.034 290
+Enter x y values: 0.214 -130
+Enter x y values: 0.263 -70
+Enter x y values: 0.275 -185
+Enter x y values: 0.275 -220
+Enter x y values: 0.45 200
+Enter x y values: 0.5 290
+Enter x y values: 0.5 270
+Enter x y values: 0.63 200
+Enter x y values: 0.8 300
+Enter x y values: 0.9 -30
+Enter x y values: 0.9 650
+Enter x y values: 0.9 150
+Enter x y values: 0.9 500
+Enter x y values: 1.0 920
+Enter x y values: 1.1 450
+Enter x y values: 1.1 500
+Enter x y values: 1.4 500
+Enter x y values: 1.7 960
+Enter x y values: 2.0 500
+Enter x y values: 2.0 850
+Enter x y values: 2.0 800
+Enter x y values: 2.0 1090
+Enter x y values: FIN
+
+ Slope       m =    4.541584E+02
+ y-intercept b =   -4.078365E+01
+ Correlation r =    7.896395E-01
